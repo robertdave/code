@@ -1,6 +1,4 @@
 # code
-Códigos de diversos projetos
-
 Projeto AMR - Robo movel autonomo
 
 1-Grafos
