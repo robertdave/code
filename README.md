@@ -1,2 +1,2 @@
 # code
-Códigos de diversos projetos
+Vários algoritmos relacionados a matemática e computação.
